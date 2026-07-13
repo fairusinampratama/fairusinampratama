@@ -1,6 +1,6 @@
 # Fairus In'am Pratama
 
-Laravel Backend / Full-Stack Developer building operational systems, business workflows, integrations, and production delivery pipelines.
+Laravel Backend / Full-Stack Developer focused on operational systems, business workflows, integrations, and production delivery.
 
 ## Core
 
@@ -12,15 +12,17 @@ Docker | GitHub Actions | Linux | MikroTik | Midtrans | Coolify
 
 ## Selected Work
 
-- **TinggalJalan** - multilingual travel booking platform with admin operations, payments, and production delivery workflows.
-- **Skynet Customer Health** - Laravel monitoring dashboard for ISP customer and server connectivity health.
-- **E-Letter** - Laravel letter workflow system with role-based approvals, PDF signing, and QR verification.
-- **Skynet E-Billing** - ISP billing, invoicing, payment, router sync, and customer management system.
-- **Skynet NetEngine API** - Go middleware for persistent MikroTik router operations and monitoring.
-- **Skynet Saleskit** - Laravel Filament field registration app for technician-led customer onboarding.
+- **[TinggalJalan](https://github.com/fairusinampratama/tinggaljalan)** — multilingual travel booking platform with admin operations, tiered pricing, payments, customer communications, and automated deployment.
+- **[Skynet Customer Health](https://github.com/fairusinampratama/skynet-customer-health)** — Laravel monitoring dashboard for ISP customer and server connectivity health.
+- **[E-Letter](https://github.com/fairusinampratama/eletter)** — Laravel letter workflow system with role-based approvals, ECDSA-based digital signatures, QR verification, and document integrity checks.
+- **[Skynet E-Billing](https://github.com/fairusinampratama/skynet-ebilling)** — ISP billing and customer management platform with invoicing, payments, MikroTik synchronization, and WhatsApp workflows.
+- **[Skynet NetEngine API](https://github.com/fairusinampratama/skynet-net-engine-api)** — Go middleware for persistent MikroTik connections, concurrent router operations, and network monitoring.
+- **[Skynet Saleskit](https://github.com/fairusinampratama/skynet-saleskit)** — Laravel Filament field-registration application for technician-led customer onboarding, geolocation capture, and admin review.
 
-## Focus
+## What I Build
 
-I build practical software for real operations: billing systems, internal dashboards, workflow automation, API integrations, deployment pipelines, and infrastructure-aware backend services.
+I design and deliver practical software for real operations—from requirements and database design to integrations, deployment pipelines, and production troubleshooting.
 
-[Email](mailto:fairusinampratama@gmail.com)
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/fairusinampratama) | [Email](mailto:fairusinampratama@gmail.com)

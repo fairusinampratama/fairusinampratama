@@ -12,10 +12,12 @@ Docker | GitHub Actions | Linux | MikroTik | Midtrans | Coolify
 
 ## Selected Work
 
-- **TinggalJalan** - travel booking platform with production delivery workflows.
-- **Skynet Customer Health** - operational monitoring for ISP customer and network status.
-- **Skynet E-Billing** - ISP billing, invoicing, payment, and customer management system.
-- **Skynet NetEngine API** - Go middleware for RouterOS operations and monitoring.
+- **TinggalJalan** - multilingual travel booking platform with admin operations, payments, and production delivery workflows.
+- **Skynet Customer Health** - Laravel monitoring dashboard for ISP customer and server connectivity health.
+- **E-Letter** - Laravel letter workflow system with role-based approvals, PDF signing, and QR verification.
+- **Skynet E-Billing** - ISP billing, invoicing, payment, router sync, and customer management system.
+- **Skynet NetEngine API** - Go middleware for persistent MikroTik router operations and monitoring.
+- **Skynet Saleskit** - Laravel Filament field registration app for technician-led customer onboarding.
 
 ## Focus
 
